@@ -1,0 +1,34 @@
+{
+    "brands-info": [
+        {
+            "name": "Natural Tasty Bakery",
+            "imageLink": "https://github.com/kiseki2301/images/blob/master/i_brand_1.png",
+            "yearCoop": "2001"
+        },
+        {
+            "name": "Cavalier Collective CO",
+            "imageLink": "https://github.com/kiseki2301/images/blob/master/i_brand_2.png",
+            "yearCoop": "2011"
+        },
+        {
+            "name": "Harvest CO",
+            "imageLink": "https://github.com/kiseki2301/images/blob/master/i_brand_3.png",
+            "yearCoop": "2003"
+        },
+        {
+            "name": "Landlock travel CO- The Wander Club",
+            "imageLink": "https://github.com/kiseki2301/images/blob/master/i_brand_4.png",
+            "yearCoop": "2018"
+        },
+        {
+            "name": "Spectrum Solution System",
+            "imageLink": "https://github.com/kiseki2301/images/blob/master/i_brand_5.png",
+            "yearCoop": "2001"
+        },
+        {
+            "name": "Home Energy",
+            "imageLink": "https://github.com/kiseki2301/images/blob/master/i_brand_6.png",
+            "yearCoop": "2019"
+        }
+    ]
+}

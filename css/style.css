@@ -1,0 +1,40 @@
+/*---Variables----*/
+:root {
+    --footer-first-background-color: #141414;
+    --footer-second-background-color: #000000;
+    --footer-info-text: #737373;
+    --footer-info-title: #ffffff;
+}
+/*---Main styles----*/
+ul li{list-style-type: none;}
+
+/*Header Menu*/
+#rightMenu ul li, #leftMenu ul li
+{
+    display: inline-block;
+}
+
+
+
+/*Customer Section*/
+.CustomerBanner {background-color: aqua; padding: 0px 0px;}
+
+/*Footer Section*/
+.footerInfo ul {display: inline-block; }
+
+.footerInfo ul li a{text-decoration: none; }
+.footerFirst {background-color: var(--footer-first-background-color); }
+.footerSecond {background-color: var(--footer-second-background-color);} 
+
+.footerContact ul li {display: inline-block; }
+
+.address p {text-transform: capitalize; }
+.address p span:first-child  {text-transform: lowercase; }
+
+
+
+.footerInfo ul li a {color: var(--footer-info-text); }
+.footerInfo ul li:nth-child(1), .footerContact:nth-child(1) { 
+    color: var(--footer-info-title); font-style:bold; font-size:20px;}
+ /*.footerInfo ul li:first-child, .footerContact ul li:first-child { color: var(--footer-info-title); } */
+ input[type=email] {color: #000000; }
